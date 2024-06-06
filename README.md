@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+I am a student with Tech Elevator! I'm learning all the fun stuff that comes with coding to be able to adequately provide for my family.
+
+Always happy to collaborate!
